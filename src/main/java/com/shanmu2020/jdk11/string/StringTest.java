@@ -23,4 +23,8 @@ public class StringTest {
         long count = "A\nB\nC".lines().count();// 3
         System.out.println("行数统计 " + count);
     }
+
+    @Test
+    public void test28() {
+    }
 }
